@@ -18,23 +18,26 @@ public class DemoGeneric {
 //            total +=(int)noneGeneric.get(i);
 //        }                           //        => Lỗi lúc biên dịch vì không thể ép kiểu char, String sang int
 
-
 //        Có ép kiểu:
-        number1.add(2.3);
-        number1.add(6.7);
-        number1.add(891);
         number.add(69);
         number.add(28);
         number.add(30);
+//        Báo lỗi ngay nếu sai KDL
+//        number.add("Exemple");
 
-//        number.add("Exemple"); //Báo lỗi ngay nếu sai KDL
-//        for (int i = 0; i < number.size(); i++) {
-//            total += number.get(i);
-//        }
-        for (int i = 0; i < number1.size(); i++) {
-            System.out.println(number1.get(i));
+        for (int i = 0; i < number.size(); i++) {
+            total += number.get(i);
         }
 
-//        System.out.println("Total = " + total);
+//
+        System.out.println("Total = " + total);
+
+
+        number1.add(2.3);
+        number1.add(6.7);
+        number1.add(891);
+//        for (int i = 0; i < number1.size(); i++) {
+//            System.out.println(number1.get(i));
+//        }
     }
 }
