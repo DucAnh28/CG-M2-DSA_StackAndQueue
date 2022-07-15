@@ -10,7 +10,7 @@ public class DemoGeneric {
 
     public static void main(String[] args) {
         int total = 0;
-////        Ko ép kiểu:
+//        Ko ép kiểu:
 //        noneGeneric.add(123);
 //        noneGeneric.add('C');
 //        noneGeneric.add("DucAnhdz");
