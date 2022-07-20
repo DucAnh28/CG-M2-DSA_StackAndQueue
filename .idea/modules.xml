@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BT1_PracticeStack/BT1_PracticeStack.iml" filepath="$PROJECT_DIR$/BT1_PracticeStack/BT1_PracticeStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT2_PracticeQueue/BT2_PracticeQueue.iml" filepath="$PROJECT_DIR$/BT2_PracticeQueue/BT2_PracticeQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpTH3-QueueInArray/OpTH3-QueueInArray.iml" filepath="$PROJECT_DIR$/OpTH3-QueueInArray/OpTH3-QueueInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpTH4-StackInArray/OpTH4-StackInArray.iml" filepath="$PROJECT_DIR$/OpTH4-StackInArray/OpTH4-StackInArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH1_StackinLinkedList/TH1_StackinLinkedList.iml" filepath="$PROJECT_DIR$/TH1_StackinLinkedList/TH1_StackinLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH2_QueueInLinkedList/TH2_QueueInLinkedList.iml" filepath="$PROJECT_DIR$/TH2_QueueInLinkedList/TH2_QueueInLinkedList.iml" />
